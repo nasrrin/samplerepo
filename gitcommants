@@ -36,6 +36,8 @@ command for listing braches
 >git branch
 
 >git stach
+>git stach pop
+>git rebase
 
 
 
