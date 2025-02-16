@@ -22,6 +22,17 @@ commant for adding untracked files to staging area
 commantfor adding stages files to localrep
 >git commit -m "commit messge"
 
+commant for add remote
+>git remote add name path
+eg:git remote add orgin https://github.com/nasrrin/samplerepo.git
+
+check remote added
+>git remote -v
+
+
+
+
+
 
 
 
