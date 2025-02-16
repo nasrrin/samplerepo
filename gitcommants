@@ -1,0 +1,27 @@
+commant for checking version
+>git --version
+
+commant for listing user
+>git config --list
+
+commant for adding uername and email
+>git congif --global user.name "username"
+>git config --global user.email "email"
+
+----------------------------------------------------------------------
+
+commant for intialize git in pwd
+>git init 
+
+commant for listing all untracked files
+>git status
+
+commant for adding untracked files to staging area
+>gt add -A 
+
+commantfor adding stages files to localrep
+>git commit -m "commit messge"
+
+
+
+
