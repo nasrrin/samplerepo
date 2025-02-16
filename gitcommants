@@ -29,6 +29,10 @@ eg:git remote add orgin https://github.com/nasrrin/samplerepo.git
 check remote added
 >git remote -v
 
+commant for pushing
+>git push remotename branch(master or main)
+
+
 
 
 
